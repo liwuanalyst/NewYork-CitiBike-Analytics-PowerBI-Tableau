@@ -19,11 +19,6 @@ Citi Bike is NYC’s bike-sharing program with millions of trips each year. This
 
 Interactive dashboards were created with:
 - **Power BI**: Provided a high-level performance overview for 2023, showcasing total rides, average trip durations, bike types, member types, and usage by start/end stations to support operational insights and planning.
+- **Tableau**: Delivered dynamic storytelling through interactive dashboards that compared usage across time, locations, and demographics (e.g., member types, bike types), uncovering spatial and temporal trends.
 
-- **Tableau**: Delivered dynamic storytelling through interactive dashboards that compared usage across time, locations, and demographics (e.g., gender, age group, member type), uncovering spatial and temporal trends.
-
-Key visuals include:
-- Heatmaps of station activity and peak hours  
-- Monthly and daily ridership volume  
-- User demographics and ride behavior
 
